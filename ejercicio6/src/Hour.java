@@ -1,5 +1,3 @@
-package com.caece.ejercicio6;
-
 public class Hour {
 
     private int hour;
